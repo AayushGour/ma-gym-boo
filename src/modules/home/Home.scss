@@ -24,12 +24,18 @@
       height: auto !important;
     }
   }
+  .header-title {
+    font-size: 1rem !important;
+  }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   .cards-container {
     width: 80% !important;
+  }
+  .header-title {
+    font-size: 1.3rem !important;
   }
 }
 
