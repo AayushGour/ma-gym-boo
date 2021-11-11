@@ -1,2 +1,2 @@
-# ma-gym-boo
-Created with CodeSandbox
+# MA GYM BOO
+My Application to keep track of exercises
